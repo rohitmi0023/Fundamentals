@@ -3,3 +3,4 @@ Contains links to websites, videos that will make your understanding clear about
 
 Topics included till date :-
 * `Async-Await` in JavaScript -> Link
+* `Prop-Types`  in React -> Link
