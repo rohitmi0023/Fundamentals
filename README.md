@@ -7,3 +7,4 @@ Topics included till date :-
 * `local-storage` in Web 
 * `hooks`(react) in React 
 * `reduce()` in ES_6
+* `Spread & Rest Operator` in ES_6
