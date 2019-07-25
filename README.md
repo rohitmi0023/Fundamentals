@@ -9,3 +9,5 @@ Contains links to websites, videos that will make your understanding clear about
 * `reduce()` in ES_6
 * `Spread & Rest Operator` in ES_6
 * `Fragments` in React
+* `Context API & hooks` in React ( tutorial )
+
